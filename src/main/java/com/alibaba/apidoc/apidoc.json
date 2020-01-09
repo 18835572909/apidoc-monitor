@@ -1,0 +1,15 @@
+{
+  "name": "API文档",
+  "version": "1.0.0",
+  "description": "在线文档",
+  "title": "Api文档",
+  "url" : "http://127.0.0.1/",
+  "order": [
+    "GetUser",
+    "PostUser"
+  ],
+  "template": {
+    "withCompare": true,
+    "withGenerator": true
+  }
+}
